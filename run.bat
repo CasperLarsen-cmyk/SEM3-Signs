@@ -1,2 +1,2 @@
-%cd%/Scripts/python.exe NotTetris.py
-timeout 60
+py NotTetris.py
+timeout 10
