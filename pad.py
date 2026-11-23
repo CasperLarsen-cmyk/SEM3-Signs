@@ -2,7 +2,7 @@ from os import listdir, makedirs
 from os.path import isdir
 from PIL import Image, ImageOps
 
-DatasetPath = "./OURVandalism - copy/"
+DatasetPath = "./OURData/padded everything/"
 #DatasetPath = "./datasets/GTSDB/images/val/"
 imagePath = DatasetPath+""
 
